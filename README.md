@@ -1,5 +1,5 @@
 # medipass-api-php
-A php wrapper for the Medipass API  
+An unofficial php wrapper for the Medipass API  
   
 $path = the particular api call you're making e.g. 'invoices'  
 $key = your Medipass API key  
